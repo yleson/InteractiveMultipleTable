@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - TYCyclePagerView (1.1.2)
+
+DEPENDENCIES:
+  - Masonry (= 1.1.0)
+  - TYCyclePagerView (= 1.1.2)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - TYCyclePagerView
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  TYCyclePagerView: 0f67b0986995fd614843e819bc974cadd7f98008
+
+PODFILE CHECKSUM: afc3bb0574049dda433e471b76de398a5abbbd90
+
+COCOAPODS: 1.11.2
